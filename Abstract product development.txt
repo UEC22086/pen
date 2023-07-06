@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCE:
+           [1] Smart vital signs and accident monitoring system for motorcyclists embedded in helmets and garments for advanced eCall emergency assistance and health analysis monitoring . 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+Vivien Melchera,*, Frederik Diederichsa, Rafael Maestreb, Christian Hofmannc Jose-Maria Nacentad, Jos van Gente, Dragan Kusićf , Boštjan Žagarg.
+           [2]An internet of things toward a novel smart helmet for motorcycle.as: AIP Conference Proceedings 2320, 050026 (2021); https://doi.org/10.1063/5.0037483.Published Online: 02 March 2021.Agung Pangestu, M. N. Mohammed, S. Al-Zubaidi, et al.
+          [ 3]Design And Implementation Of Smart Helmet Using IoT.International Conference of Advance Research and Innovation (ICARI-2020).P Koteswara Rao, P Tarun Sai, N Vinay Kumar, SK Yusuf Vidya Sagar Department of Electronics and Communication Engineering, Andhra Loyola Institute of Engineering and
+Technology, Vijayawada (AP), India.
+          [4]IoT Based Smart Helmet and Accident Identification System.2020 IEEE Region 10 Symposium (TENSYMP), 5-7 June 2020, Dhaka, Bangladesh.Md. Atiqur Rahman,Toufiq Ahmed,S.M Ahsanuzzaman,Abid Ahsan,Ishman Rahman.
+          [5]Smart helmet to start the motorbike and to prevent accidents .J Joy Mathavan et al 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1258 012051.J Joy Mathavan, V K D Wijesekara, N Satheeskanth, W M U J Wanasinghe,M Maathushan, V V Wijenayake.
+      
